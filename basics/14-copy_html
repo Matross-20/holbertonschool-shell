@@ -1,2 +1,2 @@
 #!/bin/bash
-0;276;0cmkdir /tmp/test_html touch /tmp/test_html/file_0.html
+ touch /tmp/test_html/file_0.html
