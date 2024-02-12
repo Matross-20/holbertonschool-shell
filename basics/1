@@ -1,5 +1,0 @@
-#!/bin/bash
-
-pwd="./holbertonschool-shell/basics"
-echo $pwd
-
