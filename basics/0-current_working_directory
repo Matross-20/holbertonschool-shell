@@ -1,5 +1,4 @@
-^#!bin/bash 
-
+#!bin/bash 
 PWD="$ ./0-holbertonschool-shell
 /basics/0-current_working_directory
 $"
