@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/test_html
+mkdir /tmp/test_html;touch /tmp/test_html/file_0.html
