@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod mkdir folder1 folder2 folder3
+chmod -R +X .
