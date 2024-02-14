@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "File 'iacta' not found."
+head -3 iacta|tail -1
