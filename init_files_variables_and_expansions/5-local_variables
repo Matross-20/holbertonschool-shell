@@ -1,2 +1,2 @@
 #!/bin/bash
-diff set.sorted printenv.sorted
+declare -p | grep -E '^declare -[aAilrtx]+' | sed 's/^declare -[aAilrtx]+ //' | sort
