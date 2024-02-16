@@ -1,0 +1,2 @@
+#!/bin/bash
+return rot13_encode(text)
